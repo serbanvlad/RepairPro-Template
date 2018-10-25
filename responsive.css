@@ -1,0 +1,1068 @@
+@media (max-width: 1440px) {
+
+    /*    Homepage Page*/
+    
+/*    Slider*/
+    
+    .item_content {
+        left: -8%;
+    }
+
+    .item_content h3 {
+        font-size: 28px;
+        font-weight: 600;
+        line-height: 30px;
+        padding: 0 0 0 0;
+    }
+
+    .item_headline h1 {
+        font-size: 45px;
+        line-height: 42px;
+    }
+
+    .item_p p {
+        font-size: 15px;
+        line-height: 26px;
+    }
+    
+    /*    Welcome Section*/
+    .about_bg_right {
+        display: none;
+    }
+    
+}
+
+@media (max-width: 1200px) {
+
+    /*    Homepage Page*/
+    /*    Header */
+    .first_header_container {
+        margin: 0 auto;
+        background: #60c5e4;
+    }
+
+    .left_triangle {
+        display: none;
+    }
+
+    .right_triangle {
+        display: none;
+    }
+
+    .left_triangle_box {
+        padding-top: 12.5px;
+        padding-bottom: 12.5px;
+    }
+    
+/*    Slider*/
+    
+    .item_content {
+        left: -8%;
+    }
+
+    .item_content h3 {
+        font-size: 23px;
+        font-weight: 600;
+        line-height: 26px;
+        padding: 0 0 0 0;
+    }
+
+    .item_headline h1 {
+        font-size: 37px;
+        line-height: 38px;
+    }
+
+    .item_p p {
+        font-size: 13px;
+        line-height: 17px;
+    }
+
+
+    /*    Choose Us Section*/
+    .phone_img img {
+        position: relative;
+    }
+    
+/*    Our Experts Section*/
+    
+    .image_container:hover .icons_inner {
+        top: 65%;
+    }
+    
+    /*    Footer Section */
+    .footer_right_triangle {
+        display: none;
+    }
+
+    .footer_left_triangle {
+        display: none;
+    }
+
+    .footer_container_bottom {
+        background: rgba(255, 255, 255, 0.125);
+        width: 100%;
+        margin: 0;
+    }
+
+    .footer_col_1 {
+        padding-bottom: 30px;
+    }
+
+    .footer_bar {
+        width: 100%;
+        margin: 0 auto;
+        padding: 12.5px 0 12.5px 0;
+        background: none;
+    }
+
+    .services_links {
+        padding-bottom: 30px;
+    }
+
+    .contact_us_footer {
+        padding-bottom: 30px;
+    }
+
+}
+
+@media (max-width: 1024px) {
+    
+    /*    Homepage Page*/
+    /*    Slider */
+    
+     .carousel-item {
+        height: 120%;
+        width: 120%;
+    }
+    
+    .item_image img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .item_content {
+        left: -8%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .item_content h3 {
+        font-size: 25px;
+        font-weight: 600;
+        line-height: 18px;
+        padding: 0 0 0 0;
+        margin: 0;
+    }
+
+    .item_headline h1 {
+        font-size: 36px;
+        line-height: 35px;
+    }
+
+    .item_p {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .item_p p {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 15px 0 15px 0;
+    }
+
+    .item_cta {
+        padding-top: 10px;
+    }
+
+    .item_cta button {
+        font-size: 14px;
+        padding: 12px 24px 12px 24px;
+    }   
+    
+/*    Counter Section*/
+    
+    .counter_row {
+        align-items: flex-start;
+        justify-content: center;
+    }
+    
+}
+
+@media (max-width: 992px) {
+
+    /*    Homepage Page*/
+    /*    Header */
+    .first_header_container {
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .left_triangle {
+        border-left: 25px solid #60c5e4;
+        border-right: 25px solid #60c5e4;
+        border-bottom: 25px solid #60c5e4;
+        border-top: 25px solid #60c5e4;
+    }
+
+    .right_triangle {
+        border-left: 25px solid #60c5e4;
+        border-right: 25px solid #60c5e4;
+        border-bottom: 25px solid #60c5e4;
+        border-top: 25px solid #60c5e4;
+    }
+
+    /*    Info Subsection*/
+    .info_subsection {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: none;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .infos {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        margin-top: 30px;
+        margin-bottom: 0;
+
+    }
+
+    .details {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    /*    Second Header & Nav Menu*/
+    .second_header {
+        position:
+    }
+    
+    .nav_menu {
+        display: none;
+    }
+    
+    .burger_menu {
+        padding: 0 0 20px 0;
+    }
+
+    .burger_menu_container {
+        display: block;
+    }
+
+    /*    Slider Section*/
+
+    .carousel-item {
+        height: 170%;
+        width: 170%;
+    }
+
+    .item_content {
+        left: -12%;
+    }
+
+    .item_content h3 {
+        font-size: 23px;
+        font-weight: 600;
+        line-height: 26px;
+        padding: 0 0 0 0;
+    }
+
+    .item_headline h1 {
+        font-size: 37px;
+        line-height: 38px;
+    }
+
+    .item_p p {
+        font-size: 13px;
+        line-height: 17px;
+    }
+
+
+    /*    Welcome Section*/
+
+    .about_bg_left {
+        display: none;
+    }
+
+    .our_repair_pro {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .welcome_texts {
+        padding: 80px 0 80px 0;
+    }
+
+    .video_section {
+        width: 100%;
+        padding-bottom: 80px;
+    }
+
+    .play_icon {
+        margin: 0;
+        padding: 0;
+    }
+
+    .video_image_box {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .video_image_box img {
+        width: 100%;
+    }
+
+    /*    Modal Snippet*/
+    .modal_content {
+        width: 90%;
+    }
+
+    /*    Our Services Section*/
+    .our_services_overlay {
+        height: 100%;
+    }
+
+    .column_content_responsive {
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .img_inner img {
+        width: 100%;
+    }
+
+    .box_description {
+        width: 100%
+    }
+
+    /*    Counter Section*/
+    
+    .counter_overlay {
+        height: 100%;
+    }
+   
+    .title_box {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        padding: 20px 0 20px 0;
+    }
+    
+    .title_box span {
+        padding: 0 0 20px 0;
+    }
+    
+    /*    Choose Us Section*/
+    .phone_img {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .phone_img img {
+        position: relative;
+        width: 70%;
+    }
+
+    /*    Appointment Section*/
+    .appointment_content {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        align-content: center;
+    }
+
+    .left_image {
+        display: none;
+    }
+
+    .left_image_overlay {
+        display: none;
+    }
+
+    .right_image {
+        width: 100%;
+    }
+
+    .right_image_overlay {
+        width: 100%;
+    }
+
+    /*    Experts Section*/
+    .photo_inner {
+        width: 100%;
+    }
+
+    .photo_inner img {
+        width: 100%;
+    }
+
+    .text_bottom_responsive {
+        padding-bottom: 30px;
+    }
+
+    /*    Computer Repair Section*/
+    .image_left {
+        display: none;
+    }
+
+    .computer_repair_button {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .computer_repair_button button {
+        font-size: 13px;
+    }
+
+    .computer_repair_content {
+        /*        padding: 20px 100px 20px 100px;*/
+    }
+
+
+    /*    Blog Articles Section*/
+    .article_content {
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .article_box_responsive {
+        padding-bottom: 30px;
+    }
+
+    .article_ribbon {
+        padding-top: 10px;
+    }
+
+    /*    Footer Section*/
+    .footer_container_bottom {
+        background: rgba(255, 255, 255, 0.125);
+        width: 100%;
+        margin: 0;
+    }
+
+    .footer_col_1 {
+        padding-bottom: 30px;
+    }
+
+    .footer_bar {
+        width: 100%;
+        margin: 0 auto;
+        padding: 12.5px 0 12.5px 0;
+        background: none;
+    }
+
+    /*
+    --------------------
+    Service Details Page
+    --------------------
+*/
+    .service_details_row {
+        padding-top: 20px;
+        padding-bottom: 60px;
+    }
+
+    .categories_menu {
+        padding-bottom: 40px;
+    }
+
+    .service_details_content {
+        padding-left: 0;
+    }
+
+    .side_bar {
+        padding-top: 40px;
+    }
+
+    .inputWithIcon button {
+        left: 90%;
+    }
+
+    /*
+    --------------------
+    Shope Page
+    --------------------
+*/
+    .column_content_shop {
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    
+    h2 {
+        font-family: 'Titillium Web', sans-serif;
+        font-weight: 600;
+        font-size: 35px;
+        line-height: 44px;
+        margin: 0;
+        padding: 0;
+    }
+
+    /*
+    --------------------
+    Homepage
+    --------------------
+*/
+    /*    Header */
+
+    .left_triangle_box {
+        display: flex;
+        justify-content: center;
+    }
+
+    .login_register p {
+        font-size: 11px;
+    }
+
+    .left_triangle_box p {
+        font-size: 11px;
+    }
+
+    .left_triangle {
+        display: none;
+    }
+
+    .right_triangle {
+        display: none;
+    }
+
+    .first_header {
+        flex-wrap: wrap;
+        padding: 0 0 5px 0;
+    }
+
+    .register_social {
+        padding-bottom: 12.5px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .login_register {
+        width: 100%;
+        text-align: center;
+        padding-bottom: 12.5px;
+    }
+
+    .register_social p {
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .divider {
+        display: none;
+    }
+
+    /*    Info Subsection*/
+
+    .info_subsection {
+        padding: 10px 0 10px 0;
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+        padding: 10px 0 10px 0;
+    }
+
+    .infos {
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 10px 0 10px 0;
+        margin-top: 0;
+    }
+
+    .details {
+        padding: 10px 0 10px 0;
+        width: 100%;
+    }
+
+    /*    Burger Menu*/
+
+    .burger_menu {
+        padding: 0 0 20px 0;
+    }
+
+    /*    Slider*/
+    
+   .item_content {
+       left: -17%;
+       display: flex;
+       flex-wrap: wrap;
+   }
+
+    .item_image img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .carousel-item {
+        height: 200%;
+        width: 200%;
+    }
+
+    .item_content h3 {
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 15px;
+        padding: 0 0 0 0;
+        margin: 0;
+    }
+
+    .item_headline h1 {
+        font-size: 35px;
+        line-height: 35px;
+    }
+
+    .item_p {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .item_p p {
+        font-size: 12px;
+        line-height: 20px;
+        padding: 10px 0 10px 0;
+    }
+
+    .item_cta {
+        padding-top: 10px;
+    }
+
+    .item_cta button {
+        font-size: 12px;
+        padding: 10px 20px 10px 20px;
+    }
+
+    .carousel-control-prev {
+        display: none;
+    }
+
+    .carousel-control-next {
+        display: none;
+    }
+
+    .carousel-indicators {
+        display: none;
+    }
+
+
+    /*    Welcome section*/
+    .about_bg_left {
+        display: none;
+    }
+
+    .welcome_texts {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 40px 0 40px 0;
+    }
+
+    .welcome_texts h3 {
+        width: 100%;
+    }
+
+    .welcome_texts h2 {
+        width: 100%;
+    }
+
+    .welcome_texts button {
+        font-size: 12px;
+        margin: 0 20px 20px 0;
+    }
+
+    .our_repair_pro {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .play_icon {
+        width: 70px;
+        height: 70px;
+    }
+
+    .modal_toggle {
+        width: 100%;
+        height: 100%;
+    }
+
+    .video_section {
+        padding-bottom: 40px;
+    }
+    
+    .video_image_box {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+    }
+
+    /*    Our Services Section*/
+
+    .column_content_responsive {
+        margin: 20px 0 20px 0;
+    }
+
+    /*    Our Categories Section*/
+
+    .categories_box {
+        padding: 10px 20px 10px 0;
+    }
+
+    .categories_box h4 {
+        font-size: 16px;
+    }
+
+    .categories_box p {
+        font-size: 13px;
+    }
+
+    /*    Counter section*/
+    
+    .counter_row {
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    .title_box {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        padding: 20px 0 20px 0;
+    }
+    
+    .title_box span {
+        text-align: left;
+    }
+    
+    .title_box h4 {
+        text-align: left;
+        padding: 20px 0 0 0;
+        width: 100%;
+    }
+    
+    /*    Schedule section*/
+
+    .appointment_texts {
+        padding: 120px 0 50px 0;
+    }
+
+    .contact_form_box {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .first_inputs {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .input_type_responsive {
+        width: 100%;
+    }
+
+    /*    Our Experts Section*/
+
+    .photo_inner {
+        width: 100%;
+    }
+
+    .photo_inner img {
+        width: 100%;
+    }
+    
+    .overlay_inner {
+        width: 100%;
+        height: 100%;
+    }
+
+    .text_bottom_mobile {
+        padding-bottom: 30px;
+    }
+
+    .text_bottom_responsive {
+        padding-bottom: 30px;
+    }
+
+    /*    Trusted Clients & Faq Section*/
+
+    .categories_section_title {
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .avatar_carousel {
+        top: -11%;
+    }
+
+    /*    Computer Repair Section*/
+
+    .image_left {
+        display: none;
+    }
+
+    .computer_repair_content {
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+
+    .computer_repair_button {
+        margin-top: 20px;
+    }
+
+    .computer_repair_title {
+        margin-bottom: 10px;
+    }
+
+    /*
+    --------------------
+    Service Details Page
+    --------------------
+*/
+    .categories_nav {
+        margin-bottom: 20px;
+    }
+
+    .service_details_content {
+        padding-left: 0;
+    }
+
+    .service_details_content h3 {
+        font-size: 20px;
+    }
+
+    .divided_content_container {
+        flex-wrap: wrap;
+    }
+
+    .divided_cols {
+        padding: 0;
+    }
+
+    .divided_content {
+        padding-bottom: 20px;
+    }
+
+    /*
+    --------------------
+    Error Page
+    --------------------
+*/
+    .error_title h1 {
+        font-size: 160px;
+    }
+
+    /*
+    --------------------
+    Shop Page
+    --------------------
+*/
+
+    .page-item a {
+        font-size: 14px;
+        margin: 0 5px 0 5px;
+    }
+
+    .column_content_shop {
+        margin-bottom: 20px;
+    }
+    
+    .inner_content button {
+        margin: 20px 10px 0 10px;
+    }
+    
+    .box_overlay_shop {
+        width: 100%;
+        height: 100%;
+    }
+
+    /*
+    --------------------
+    Single Post Page
+    --------------------
+*/
+
+    .comment_box_reply {
+        padding-left: 35px;
+    }
+
+    .comment_form {
+        margin-bottom: 40px;
+    }
+
+    .single_post_inputs {
+        width: 100%;
+    }
+
+    .tags_socials {
+        flex-wrap: wrap;
+    }
+
+    /*
+    --------------------
+    Contact Page
+    --------------------
+*/
+    .col_content {
+        padding: 50px 0 50px 0
+    }
+
+
+    
+}
+
+@media (max-width: 600px) {
+    /*    Counter Section*/
+    
+    .title_box {
+        justify-content: center;
+    }
+    
+    .title_box span {
+        text-align: center;
+    }
+    
+    .title_box h4 {
+        text-align: center;
+    }
+    
+}
+
+@media (max-width: 480px) {
+/*
+    --------------------
+    Homepage
+    --------------------
+*/
+    
+    /*    Header*/
+    
+    .infos {
+        margin-top: 0; 
+    }
+    
+    /*    Slider*/
+    
+     .item_content {
+        left: -17%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .item_subtitle h3{
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 15px;
+        padding: 0 0 0 0;
+        margin: 0;
+    }
+
+    .item_headline h1 {
+        font-size: 24px;
+        line-height: 20px;
+    }
+
+    .item_p {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .item_p p {
+        font-size: 6px;
+        line-height: 15px;
+        padding: 5px 0 5px 0;
+    }
+
+    .item_cta {
+        padding-top: 10px;
+    }
+
+    .item_cta button {
+        font-size: 12px;
+        padding: 10px 20px 10px 20px;
+    }
+    
+/*    Counter Section*/
+    
+    .title_box {
+        justify-content: center;
+    }
+    
+    .title_box span {
+        text-align: center;
+    }
+    
+    .title_box h4 {
+        text-align: center;
+    }
+    
+
+    /*
+    --------------------
+    Shop Page
+    --------------------
+*/    
+    .inputWithIcon button {
+        left: 85%;
+    }
+    
+}
+
+@media (max-width: 320px) {
+    
+/*
+    --------------------
+    Homepage
+    --------------------
+*/
+    /*   Our Services */
+    
+    .inner_content p {
+        font-size: 12px;
+        line-height: 18px;
+        font-weight: 500;
+    }
+    
+    .inner_content button {
+        padding: 10px 27px 10px 27px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+    }
+    
+/*
+    --------------------
+    Shop Page
+    --------------------
+*/
+    
+    
+    
+}
+
+
+
+
+
+
